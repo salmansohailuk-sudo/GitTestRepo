@@ -1,0 +1,4 @@
+SG-ALB,vpc-prd,human-resrouce,80,443,3306,ssh
+SG-ALB,vpc-prd,finance,80,443,3306,8000,3000,5000,ssh
+SG-ALB,vpc-prd,sp-ecc,80,443,3306,ssh
+SG-ALB,vpc-prd,sp-crm,80,443,3306,ssh
