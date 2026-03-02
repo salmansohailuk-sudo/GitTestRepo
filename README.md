@@ -8,6 +8,6 @@ Once their branch is updated - Managers or qa team or team owners approv your br
 you merge your branch updates to MAIN BRANCH.
 
 REMEMBER - Never ever directly work on MAIN BRANCH.
-Otherwise you get fired or I will beat you up.
+Otherwise you get fired or I will fire you.
 
 
